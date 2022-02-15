@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Blog Posts: <a href="index_1.html">Let's Begin </a>
+    - Blog Posts: "https://msb1002.github.io/sunbinmun_trial"
   Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
 
 # --- Logo --- #
@@ -39,9 +39,9 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sunbinmun@gmail.com"
-  facebook: deanattali
-  github: sunbinmun
-  youtube: c/daattali
+#  facebook: deanattali
+  github: msb1002
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
