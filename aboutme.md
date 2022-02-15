@@ -15,4 +15,5 @@ I still have a long way to learn, and will record my studies, hobbies, and more!
 
 ### Notion Pages
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [My Linkedin Profile](https://www.linkedin.com/in/sun-bin-m-335855b8/) and it will answer **all** your questions.
+Here is my Linkedin profile [My Linkedin Profile](https://www.linkedin.com/in/sun-bin-m-335855b8/)
+Please go and check **thank you!** 

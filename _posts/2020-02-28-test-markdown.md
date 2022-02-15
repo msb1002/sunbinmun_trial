@@ -50,6 +50,10 @@ var foo = function(x) {
 foo(3)
 ```
 
+```python
+print("Hello world!")
+```
+
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
