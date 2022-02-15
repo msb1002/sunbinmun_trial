@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Blog Posts: <a href="index_1.html">Let's Begin </a>
   Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
 
 # --- Logo --- #
