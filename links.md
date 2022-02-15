@@ -28,7 +28,6 @@ phones = [] Android [x] iPhone [x] Blackberry
 
 city = {BOS, SFO, (NYC)}
 
- {% include email-capture.html %} 
 
 
 
