@@ -17,13 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Relevant Works: "links"
   Blogposts:
-    - Data Science and Deep Learning: ""
-    - Academics: ""
-    - Movie & Music Reviews: ""
+    - Data Science and Deep Learning: "https://msb1002.github.io/sunbinmun_trial/"
     - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
-    - Differences: "https://facebook.com"
   Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
-  Data Science & Deep Learning: ""
 
 # --- Logo --- #
 
@@ -36,14 +32,11 @@ round-avatar: false
 
 
 # --- Footer social media links --- #
-
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sunbinmun@gmail.com"
   github: msb1002
-#  youtube: c/daattali
-#  medium: yourname
+#  youtube: 
+#  medium: 
   linkedin: sun-bin-m-335855b8
   instagram: sbmunrightthere
   telephone: +852 51609092
@@ -57,6 +50,7 @@ share-links-active:
   linkedin: true
   instagram: true
   github: true
+  soundcloud: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
