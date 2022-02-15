@@ -15,19 +15,19 @@ author: Sun Bin Mun (Sun)
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Blog Posts: "https://msb1002.github.io/sunbinmun_trial/"
+  Relevant Works: ""
+  Blogposts:
+    - Data Science and Deep Learning: ""
+    - Academics: ""
+    - Movie & Music Reviews: ""
     - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
     - Differences: "https://facebook.com"
   Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
+  Data Science & Deep Learning: ""
 
 # --- Logo --- #
 
 avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
@@ -41,27 +41,13 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sunbinmun@gmail.com"
-#  facebook: deanattali
   github: msb1002
 #  youtube: c/daattali
 #  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+  linkedin: sun-bin-m-335855b8
+  instagram: sbmunrightthere
   telephone: +852 51609092
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+
 
 # --- General options --- #
 
@@ -69,6 +55,8 @@ social-network-links:
 share-links-active:
   facebook: true
   linkedin: true
+  instagram: true
+  github: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
