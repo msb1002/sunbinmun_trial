@@ -12,4 +12,4 @@ You can add notification, warning and error boxes like this:
 {: .box-note}
 **Note:** This is a notification box.
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg">](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d)
