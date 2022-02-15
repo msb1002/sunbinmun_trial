@@ -14,11 +14,13 @@ author: Sun Bin Mun (Sun)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Experiment: "index_2.html"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Blog Posts: "https://msb1002.github.io/sunbinmun_trial"
+    - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
   Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
 
 # --- Logo --- #
