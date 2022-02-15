@@ -4,12 +4,33 @@ title: Social Links
 subtitle: My works so far
 ---
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## Links
+Here are some useful links that I use actively
 
-### Notification
+### Notion
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Notion is where I store all my study materials and interests. Please go ahead and check it out!
 
-[<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg">](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d)
+[<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="drawing" style="width:200px;"/>](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d)
+
+### Github
+{: .box-note}
+**Note:** I am still trying to learn more about the Github. It is still in progress!
+
+### Request for CV
+If you want to request for the CV, please fill in the following information :)
+
+name = ___
+occupation = ___
+
+phones = [] Android [x] iPhone [x] Blackberry
+
+city = {BOS, SFO, (NYC)}
+
+ zip code* = ___[50]
+
+ {% include email-capture.html %} 
+
+
+
