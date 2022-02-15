@@ -28,8 +28,6 @@ phones = [] Android [x] iPhone [x] Blackberry
 
 city = {BOS, SFO, (NYC)}
 
- zip code* = ___[50]
-
  {% include email-capture.html %} 
 
 
