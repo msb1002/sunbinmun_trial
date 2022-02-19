@@ -26,4 +26,4 @@ If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
 [button url="https://forms.gle/cse6duWUHgy8KSGr7"]
-<button name="button" onclick="https://forms.gle/cse6duWUHgy8KSGr7"> Request for CV </button>
+[Click me](https://forms.gle/cse6duWUHgy8KSGr7){: .btn}
