@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Social Links
+layout: post
+title: Data Analysis template
 subtitle: My works so far
 ---
 

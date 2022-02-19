@@ -1,0 +1,456 @@
+---
+layout: page
+title: About me
+subtitle: Morgan Stanley Asia - Technology Analyst
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Chloe Kim</title>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=0.8" name="viewport">
+  <meta name="author" content="Chloe Minkyung Kim">
+  <meta name="google" content="notranslate"/>
+  
+  <link rel="shortcut icon" href="./assets/favicon_C.ico" type="image/x-icon" />
+  <link rel="icon" href="./assets/favicon_C.ico" type="image/x-icon" />
+  
+  <!-- Open Graph Data -->
+  <meta property='og:type' content="website" />
+  <meta property='og:url' content="https://chloeminkyung.github.io/" />
+  <meta property='og:title' content="Chloe Kim" />
+  <meta property='og:description' content="Chloe Kim Personal Website" />
+  <meta property='og:image' name="image" content="https://chloeminkyung.github.io/assets/logo_img.jpg" />
+  <meta property="og:image:width" content="1466" />
+  <meta property="og:image:height" content="768" />
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- CSS & JS -->
+  <link href="./main.82cfd66e.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114946034-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-114946034-2');
+  </script>
+</head>
+
+<body>
+
+<header>
+  
+  <div class="navbar navbar-default visible-xs navbar-fixed-top">
+  </div>
+
+  <!-- default sidebar footer -->
+  <div class="navbar navbar-default visible-xs navbar-fixed-bottom">
+    <p class="nav-footer-social-buttons text-center vertical-center">
+      <a class="fa-icon" target="_blank" href="https://github.com/chloeminkyung" title="">
+        <i class="fa fa-github"></i>
+      </a>
+      <a class="fa-icon" target="_blank" href="https://www.instagram.com/chloccoli/" title="">
+        <i class="fa fa-instagram"></i>
+      </a>
+      <a class="fa-icon" target="_blank" href="https://www.linkedin.com/in/chloeminkyung/" title="">
+        <i class="fa fa-linkedin"></i>
+      </a>
+      <a class="fa-icon" target="_blank" href="mailto:chloeminkyung@gmail.com" title="">
+        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+      </a>
+      <br>
+      <span class="copyright">
+        &copy;&nbsp;
+        <script>document.write(new Date().getFullYear());</script>
+        &nbsp;Chloe Kim&nbsp;
+        <span style="color: rgba(12, 12, 12, 0.4);">&nbsp;All Rights Reserved.</span>
+      </span>
+    </p>
+  </div>
+
+  <!-- mobile sidebar -->
+  <nav class="sidebar">
+    <div class="navbar-collapse" id="navbar-collapse">
+      <div class="site-header hidden-xs">
+          <a class="site-brand" href="./index.html" title=""><div class="author-img"></div>Chloe Minkyung Kim</a>
+        <p class="side-about">
+          BEng in Computer Science, HKUST<br>
+          Deep Learning
+          <span class="line-middle"></span>NLP
+          <span class="line-middle"></span>Data Engineering
+          <br>
+          <br>
+          👶🏻&nbsp;Seoul<br>
+          🧒🏻&nbsp;Kuala Lumpur<br>
+          📚&nbsp;Hong Kong<br>
+          💻&nbsp;Singapore
+        </p>
+      </div>
+      <nav class="nav-footer">
+        <p class="nav-footer-social-buttons">
+          <a class="fa-icon" target="_blank" href="https://github.com/chloeminkyung" title="">
+            <i class="fa fa-github"></i>
+          </a>
+          <a class="fa-icon" target="_blank" href="https://www.instagram.com/chloccoli/" title="">
+            <i class="fa fa-instagram"></i>
+          </a>
+          <a class="fa-icon" target="_blank" href="https://www.linkedin.com/in/chloeminkyung/" title="">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a class="fa-icon" target="_blank" href="mailto:chloeminkyung@gmail.com">
+            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+          </a>
+        </p>
+        <span class="copyright">
+          &copy;&nbsp;
+          <script>document.write(new Date().getFullYear());</script>
+          &nbsp;Chloe Kim&nbsp;
+          <span style="color: rgba(12, 12, 12, 0.4);">&nbsp;All Rights Reserved.</span>
+      </span>
+      </nav>
+    </div>
+  </nav>
+</header>
+
+<main class="main" id="main-collapse">
+
+  <!-- default sidebar -->
+  <div class="hero-full-wrapper">
+    <div class="visible-xs">
+      <a class="site-brand" href="./index.html" title=""><div class="author-img"></div>Chloe Minkyung Kim</a>
+      <p class="side-about">
+        BEng in Computer Science, HKUST<br>
+        Deep Learning
+        <span class="line-middle"></span>NLP
+        <span class="line-middle"></span>Data Engineering
+        <br>
+        <br>
+        👶🏻&nbsp;Seoul<span class="line-middle"></span>
+        🧒🏻&nbsp;Kuala Lumpur<span class="line-middle"></span>
+        📚&nbsp;Hong Kong<span class="line-middle"></span>
+        💻&nbsp;Singapore
+      </p>
+    </div>
+
+    <!-- About -->
+    <section id="about">
+      <div class="row">
+        <div class="col-md-12">
+
+          <hr>
+          <h4 class="header">About</h4>
+          <hr class="header-hr">
+
+          <br>
+
+          I'm a fresh graduate with <span class="color-underline">BEng in Computer Science</span> from The Hong Kong University of Science and Technology, HKUST.<br>
+          Skilled in Python, Java, Go, Machine/Deep Learning, and Web development. I'm currently doing <span class="color-underline">Data Engineering</span><br>
+          at Goldman Sachs and previously worked on <span class="color-underline">Full Stack Web Development</span> and various <span class="color-underline">Machine Learning</span> & <span class="color-underline">Natural Language Processing (NLP)</span> related projects.<br><br>
+          <p><a class="btn btn-download" target="_blank" href="Chloe_Kim_CV_Nov_17__21.pdf">DOWNLOAD CV</a></p>
+
+          <hr>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience">
+      <div class="row">
+        <div class="col-md-12">
+
+          <h4 class="header">Experiences</h4>
+          <hr class="header-hr">
+
+          <br>
+          <ul class="timeline">
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="https://www.goldmansachs.com">Goldman Sachs</a>
+              <a class="exp_place">Singapore</a>
+              <br>
+              <p class="pull-left exp_position">Analyst</p>
+              <p class="pull-right exp_date">July 2020<span class="hline-middle"></span></p>
+              <br><br>
+              <ul class="bullet">
+                <li>Alloy Data Engineering</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="https://caire.ust.hk/about/about-caire">Centre for Artificial Intelligence Research (CAiRE), HKUST</a>
+              <a class="exp_place">Remote</a>
+              <br>
+              <p class="pull-left exp_position">Web Developer</p>
+              <p class="pull-right exp_date">Apr 2020 - Apr 2020</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Designed and implemented full stack CAiRE-COVID project website for Centre for Artificial Intelligence Research (CAiRE). Check out the <a href="https://demo.caire.ust.hk/covid/" target="_blank">website</a>!</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="#">Monan-Hanquoc</a>
+              <a class="exp_place">Remote</a>
+              <br>
+              <p class="pull-left exp_position">Full Stack Web Developer</p>
+              <p class="pull-right exp_date">Feb 2020<span class="hline-middle"></span>Mar 2020</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Developed a Full Stack Web Application for Monan-Hanquoc.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="https://www.jpmorgan.com">J.P. Morgan Chase</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">Summer Analyst</p>
+              <p class="pull-right exp_date">Jun 2019<span class="hline-middle"></span>Aug 2019</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Developed a Personalized Recommendation System based on collaborative filtering with user clustering algorithm to improve client’s user experience on international private bank website using Python, Java, Angular.</li>
+                <li>Flask API of this Inference Service was deployed on Gaia (JPMC’s cloud service) which enabled firm-wide application.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="http://imago.ai/">Imago.AI</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">Artificial Intelligence Researcher</p>
+              <p class="pull-right exp_date">May 2018<span class="hline-middle"></span>Aug 2018</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Implemented a Neural Question & Answering model based on Bi-directional Attention Flow architecture with additional Self-attention mechanism to improve localization precision for pointer network, on SQuAD and MS MARCO dataset. Demo available <a target="_blank" href="https://www.imago.ai/#experience">here</a>!</li>
+                <li>Implemented a Chinese Named Entity Recognition model using Bi-directional LSTM with CRF on Hong Kong address dataset.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="http://aromeodiffuser.com/">Aromeo</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">Part Time Web Developer</p>
+              <p class="pull-right exp_date">Sep 2017<span class="hline-middle"></span>Mar 2018</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Developed Full-stack interactive web application with Node.js and React.js as an admin management console.</li>
+                <li>Designed and modelled the initial PostgreSQL database structure for server-side development.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="http://www.compathnion.com/">Whereami, HKUST</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">UG Researcher</p>
+              <p class="pull-right exp_date"> Jun 2016<span class="hline-middle"></span>Aug 2016</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Improved the indoor localization Android application using additional embedded geomagnetic positioning system.</li>
+                <li>Evaluated various localization technologies, such as GPS, geomagnetic, and Wi-Fi based positioning system, to improve indoor localization precision.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+
+    <section id="project">
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="header">Projects</h4>
+          <hr class="header-hr">
+          <br>
+
+          <ul class="projects">
+            <li class="timeline-item">
+              <a class="company" style="text-decoration: none;">Fake News Detection</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">Final Year Project</p>
+              <p class="pull-right exp_date">May 2018<span class="hline-middle"></span>May 2019</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Proposed a comprehensive and diverse neural network-based model for fake news detecting system consisting of text, multi-modal(text-and-image), and query modules.</li>
+                <li>Suggested an alternative claim & evidence based approach of fact checking for fake news detection using BiDAF model for localization within evidence context and Allen NLP Decomposable Attention model pipeline.</li>
+                <li>Implemented Flask web application to integrate the system with trained models into an exportable API.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" target="_blank" href="https://bundleport.com/">BundlePort</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">CEO / CTO</p>
+              <p class="pull-right exp_date">Jan 2018<span class="hline-middle"></span>May 2019</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Developed Full-stack web application focusing on enhancing UI/UX using Node.js and MySQL, and deployed on cloud server using AWS EC2, S3, Elastic Beanstalk, and CloudFront.</li>
+                <li>Took full responsibility as a CEO to lead and manage the core logistic process, financial records, retail sales and rent team activities.</li>
+              </ul>
+            </li>
+            <li class="timeline-item">
+              <a class="company" style="text-decoration: none;">Big Data Analysis Society</a>
+              <a class="exp_place">Hong Kong</a>
+              <br>
+              <p class="pull-left exp_position">President</p>
+              <p class="pull-right exp_date">Sep 2017<span class="hline-middle"></span>Jun 2018</p>
+              <br><br>
+              <ul class="bullet">
+                <li>Organized and instructed in group events to promote learning of basic Tensorflow, R, and Data Visualization.</li>
+                <li>Participated in Aviation Data Analysis Competition held by Korea Airport Corporation.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+
+    <section id="skills">
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="header">Skills</h4>
+          <hr class="header-hr">
+          <br>
+
+          <ul style="list-style: none; padding-left: 0;">
+            <li>
+              <p class="subheader">Technical Skills</p>
+              <p>
+                Python<span class="line-middle"></span>
+                Go<span class="line-middle"></span>
+                Java<span class="line-middle"></span>
+                PyTorch<span class="line-middle"></span>
+                Tensorflow<span class="line-middle"></span>
+                SQL<span class="line-middle"></span>
+                C++<span class="line-middle"></span>
+                Kubernetes<span class="line-middle"></span>
+                Prometheus<span class="line-middle"></span>
+                Grafana
+              </p>
+            </li>
+            <br>
+            <li>
+              <p class="subheader">Language Skills</p>
+              <p>
+                English (Fluent)<span class="line-middle"></span>
+                Korean (Native)<span class="line-middle"></span>
+                Mandarin (Intermediate)
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+
+    <section id="awards">
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="header">Honors and Awards</h4>
+          <hr class="header-hr">
+          <br>
+
+          <ul class="award-list">
+            <li style="line-height: 18px;">
+                <p class="award">
+                  J.P. Morgan Chase & Co. Internal Innovation Week Hackathon 2019 Winner (JPMC Trends)
+                  <span class="award_date">2019</span>
+                </p>
+                <p class="award">
+                  SmarTone Hackathon 2018 “Smart Properties”, Interactive Property Chatbot - Top 3 Project
+                  <span class="award_date">2018</span>
+                </p>
+                <p class="award">
+                  Targeted Scholarship under HKSAR Government Scholar Fund, Full Scholarship
+                  <span class="award_date">2016<span class="hline-middle"></span>2020</span>
+                </p>
+                <p class="award">
+                  Admission Scholarship from HKUST, Full Scholarship
+                  <span class="award_date">2016<span class="hline-middle"></span>2020</span>
+                </p>
+                <p class="award">
+                  Dean’s List from HKUST
+                  <span class="award_date">2016<span class="hline-slash"></span>2019</span></p>
+                <p class="award">
+                  Certificate of Mensa International Membership from Mensa International, High IQ society
+                  <span class="award_date">2015</span></p>
+            </li>
+          </ul>
+          
+        </div>
+      </div>
+      <br>
+      <hr>
+    </section>
+
+    <section id="contact">
+      <!-- <img src="assets/images/blob-shape.svg" class="svg-blob-2"> -->
+
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="header">Contact</h4>
+          <hr class="header-hr">
+          <br>
+          <div class="section-content">
+            <div class="row">
+              
+              <div class="col-md-8 col-md-offset-2">
+                <div class="contact-form">
+                  <form id="contact-form" name="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeOy-mGSdl6c0KnGhZmoUKIqslxlOXpaZZdJYueL3BKGoS3tg/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+                    <div class="form-group">
+                      <input autocomplete="off" id="entry.2062230605" name="entry.2062230605" type="text" placeholder="Name" data-required="true" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <input autocomplete="off" id="entry.1051835049" name="entry.1051835049" type="email" placeholder="Email" data-required="true" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <input autocomplete="off" id="entry.925252639" name="entry.925252639" type="text" placeholder="Phone Number&nbsp;&nbsp;(optional)" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <textarea id="entry.2125257781" name="entry.2125257781" placeholder="Message" data-required="true" class="form-control" style="resize: none;"></textarea>
+                    </div>
+                    <br>
+                    <div class="form-group text-center">
+                      <button type="submit" value="Submit" class="btn btn-download">SEND MESSAGE</button>
+                    </div>
+                    <br>
+                    <br>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+     masonryBuild();
+  });
+</script>
+
+</main>
+
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+  navbarToggleSidebar();
+  navActivePage();
+});
+</script>
+
+<script type="text/javascript" src="./main.85741bff.js"></script>
+<script type="text/javascript" src="./main.js"></script>
+</body>
+
+</html>
