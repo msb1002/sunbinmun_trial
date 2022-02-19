@@ -26,6 +26,6 @@ If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
 
-<label for="name">Name:</label> 
-<input type="text" id="name" name="name" size="50"/>
+![https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
 
