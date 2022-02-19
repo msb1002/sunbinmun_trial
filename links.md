@@ -26,6 +26,12 @@ If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
 
-![https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![https://forms.gle/cse6duWUHgy8KSGr7](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png){: .mx-auto.d-block :}
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/){: .mx-auto.d-block :}
+
+[<img alt="alt_text" width="40px" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" />](https://www.google.com/)
+
+
 
 
