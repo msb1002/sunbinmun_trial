@@ -26,6 +26,4 @@ If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
 
-<label for="name">Name:</label> 
-<input type="text" id="name" name="name" size="50"/>
-
+[Click me](http://www.google.com){: .btn}
