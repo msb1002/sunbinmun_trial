@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Hello world!
+title: Algorithmic Trading
 subtitle: Starting off the content
 cover-img: /assets/img/dpr.png
 thumbnail-img: /assets/img/hkust.png
 share-img: /assets/img/path.jpg
-tags: [life]
+tags: [Algo Trading][Finance][Machine Learning]
 comments: true
 ---
 
-As a data scientist, I always wanted to venture around different topics around the world
+
+
