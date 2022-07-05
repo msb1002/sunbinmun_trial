@@ -25,7 +25,4 @@ Here are some useful links that I use actively
 If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
-[button url="https://forms.gle/cse6duWUHgy8KSGr7"]
-[Click me](https://forms.gle/cse6duWUHgy8KSGr7){: .btn}
 
-[Click me](http://www.google.com){: .btn}

@@ -17,9 +17,12 @@ navbar-links:
   
   About Me: "aboutme"
   Relevant Works: "links"
+  Essay: "essay"
   Blogposts:
     - Data Science and Deep Learning: "https://msb1002.github.io/sunbinmun_trial/"
+    - Movies & Music Blog: ""
     - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
+
   #Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
 
 # --- Logo --- #
