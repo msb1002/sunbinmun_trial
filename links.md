@@ -4,15 +4,12 @@ title: Contact
 ---
 
 ## Contact
-```html
-<head>
-    <title>My Notes</title>
-    <link href="style.css" rel="stylesheet">
-</head>
-<body>
-    <h1>My notes</h1>
-</body>
-```
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 
 
 ## Request for CV
