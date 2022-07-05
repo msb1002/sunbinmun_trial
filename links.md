@@ -13,6 +13,8 @@ Here are some useful links that I use actively
 **Note:** Notion is where I store all my study materials and interests. Please go ahead and check it out!
 
 [<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="drawing" style="width:200px;"/>](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d){: .mx-auto.d-block :}
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
 
 ### Github
 {: .box-note}

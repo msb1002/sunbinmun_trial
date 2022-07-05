@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Morgan Stanley Asia - Technology Analyst
 ---
+
 Hello! My name is Sun Bin MUN, a final year student at Hong Kong University of Science and Technology majoring in BSc in Data Science and Technology. I’m also an incoming Technology Analyst in Morgan Stanley Asia Hong Kong. 
 
 Academically, my main interest is Data Analysis, Deep Learning, Algorithmic Trading, and Big Data. I also love swimming 🏊🏼‍♂️, golf 🏌🏻, movies 🎥, and traveling 🚅.
