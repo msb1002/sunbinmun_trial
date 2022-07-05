@@ -16,4 +16,4 @@ I still have a long way to learn, and will record my studies, hobbies, and more!
 Here is my Notion Page for my latest updates [My Notion Profile](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d)
 **Thank you!**
 
-Last modification date : 24/02/2022
+Last modification date : 05/07/2022

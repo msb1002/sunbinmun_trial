@@ -1,29 +1,63 @@
 ---
-layout: page
-title: Social Links
-subtitle: My works so far
+layout: null
+title: Contact
 ---
 
-## Links
-Here are some useful links that I use actively
+## Contact
+---
+title: Contact
+form:
+    name: my-nice-form
+    fields:
+        - name: name
+          label: Name
+          placeholder: Enter your name
+          autofocus: on
+          autocomplete: on
+          type: text
+          validate:
+            required: true
 
-### Notion
+        - name: email
+          label: Email
+          placeholder: Enter your email address
+          type: text
+          validate:
+            rule: email
+            required: true
 
-{: .box-note}
-**Note:** Notion is where I store all my study materials and interests. Please go ahead and check it out!
+        - name: message
+          label: Message
+          size: long
+          placeholder: Enter your message
+          type: textarea
+          validate:
+            required: true
 
-[<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="drawing" style="width:200px;"/>](https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d){: .mx-auto.d-block :}
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+    buttons:
+        - type: submit
+          value: Submit
+          classes: gdlr-button with-border excerpt-read-more
+
+    process:
+        - email:
+            from: "{{ config.plugins.email.from }}"
+            to:
+              - "{{ config.plugins.email.from }}"
+              - "{{ form.value.email }}"
+            subject: "[Feedback] {{ form.value.name|e }}"
+            body: "{% include 'forms/data.html.twig' %}"
+        - save:
+            fileprefix: feedback-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: "{% include 'forms/data.txt.twig' %}"
+        - message: Thank you for your feedback!
+        - display: thankyou
+---
 
 
-### Github
-{: .box-note}
-**Note:** I am still trying to learn more about the Github. It is still in progress!
-
-[<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="drawing" style="width:200px;"/>](https://github.com/msb1002){: .mx-auto.d-block :}
-
-
-### Request for CV
+## Request for CV
 If you want to request for the CV, please fill in the following information :)
 
 [Request for CV](https://forms.gle/cse6duWUHgy8KSGr7)
