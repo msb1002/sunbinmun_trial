@@ -16,11 +16,11 @@ author: Sun Bin Mun (Sun)
 navbar-links:
   
   About Me: "aboutme"
+  Blogposts: "https://msb1002.github.io/sunbinmun_trial/"
+  Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
   Contacts: "links"
-  Blogposts:
-    - Data Science: "https://msb1002.github.io/sunbinmun_trial/"
-    - Thoughts: "https://msb1002.github.io/sunbinmun_trial/tags/example/"
-    - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
+  Example: "example"
+
 
   #Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
 
