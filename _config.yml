@@ -18,8 +18,8 @@ navbar-links:
   About Me: "aboutme"
   Contacts: "links"
   Blogposts:
-    - Data Science and Deep Learning: "https://msb1002.github.io/sunbinmun_trial/"
-    - Movies & Music Blog: ""
+    - Data Science: "https://msb1002.github.io/sunbinmun_trial/"
+    - Thoughts: "https://msb1002.github.io/sunbinmun_trial/tags/example/"
     - Tags: "https://msb1002.github.io/sunbinmun_trial/tags/"
 
   #Notion Page: "https://sunbinmun.notion.site/Sun-Bin-MUN-Getting-Started-1c4a5242fd3d4a2ca157510f5318ae7d"
@@ -28,6 +28,7 @@ navbar-links:
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: false
+title-img: "/assets/img/Cunningham-Kawhi.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
