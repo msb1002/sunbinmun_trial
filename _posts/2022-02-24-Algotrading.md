@@ -9,5 +9,7 @@ tags: [Algo Trading][Finance][Machine Learning]
 comments: true
 ---
 
+Algorithmic Trading?
+
 
 
