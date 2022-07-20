@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Morgan Stanley Asia - Technology Analyst
+title: Sun Mun - About me
+subtitle: Morgan Stanley Asia - Technology Associate
 ---
 
-Hello! My name is Sun Bin MUN, a final year student at Hong Kong University of Science and Technology majoring in BSc in Data Science and Technology. I’m also an incoming Technology Analyst in Morgan Stanley Asia Hong Kong. 
+Hello! My name is Sun Bin MUN. I graduated Hong Kong University of Science and Technology in 2022 with a Bachelor of Science degree in Data Science and Technology. I’m also a full-time Technology Associate in Morgan Stanley Asia Hong Kong in Reliability & Production Engineering for Fixed Income & Commodities, specialized in Foreign Exchange electronic trading engine support.
 
 Academically, my main interest is Data Analysis, Deep Learning, Algorithmic Trading, and Big Data. I also love swimming 🏊🏼‍♂️, golf 🏌🏻, movies 🎥, and traveling 🚅.
 
