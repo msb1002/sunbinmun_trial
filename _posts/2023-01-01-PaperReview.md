@@ -9,5 +9,11 @@ tags: [Data Science]
 comments: true
 ---
 
-The new year has arrived, and I decided 
+I find papers that go with my interest, and I study them by summarizing them in my own words and try to implement them.
 
+**Main topics** I am interested in are: 
+1. Data Mining / Analysis & Graph Neural Network
+2. Natural Language Processing
+3. General Deep Learning Models (for fun :))
+
+[Notion](https://sunbinmun.notion.site/Thesis-Review-d1b63c3ae0bf42448552162a6a709189)
